@@ -1,5 +1,6 @@
-Here are some ideas to get you started:
+I'm Dinesh Bali 
 
+-Graduated from Gitam'22
 - 🔭 I’m currently working on lottery app
 - 🌱 I’m currently improving my skills.
 - 😄 My interests are coding,watching collaborating in team projects,research.
