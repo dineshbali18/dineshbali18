@@ -1,5 +1,6 @@
 I'm Dinesh Bali 
 
+- Pursuing Master's in Northwest Missouri state university.
 -Graduated from Gitam'22
 - 🔭 I’m currently working on lottery app
 - 🌱 I’m currently improving my skills.
