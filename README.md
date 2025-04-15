@@ -30,4 +30,4 @@ I'm a passionate and results-driven developer with expertise in backend systems,
 ### 🌐 Let’s Connect
 I'm open to collaboration, learning, and building impactful solutions. Feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/dineshbali) | [Email](mailto:dineshbali45@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dinesh-bali-954970177/) | [Email](mailto:dineshbali45@gmail.com)
