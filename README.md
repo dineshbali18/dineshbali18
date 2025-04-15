@@ -1,10 +1,33 @@
-I'm Dinesh Bali 
+### 👋 Hi there, I'm Dinesh Bali
 
-- Pursuing Master's in Northwest Missouri state university.
--Graduated from Gitam'22
-- 🔭 I’m currently working on lottery app
-- 🌱 I’m currently improving my skills.
-- 😄 My interests are coding,watching movies,collaborating in team projects,research.
-- ⚡ Fun fact:  love building friendships.
-<!--
-**dineshbali18/dineshbali18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Full Stack Software Developer** | MS in CS @ Northwest Missouri State University  
+🔹 Ex-Bobble AI | Ex-CTS | Backend & Cloud Enthusiast  
+📍 Missouri, USA
+
+---
+
+### 🚀 About Me
+I'm a passionate and results-driven developer with expertise in backend systems, microservices, and cloud-based application development. I specialize in building robust, scalable, and high-performance platforms.
+
+---
+
+### 🧠 Core Competencies
+- ⚙️ **Messaging Infrastructure**: Built Kafka-based systems for time tracking — increased efficiency by 30%
+- 🛒 **Microservices for E-Commerce**: Served 30M+ users, reduced load time by 42%
+- ☁️ **Cloud & Performance Optimization**: Redis caching, DB indexing, AWS, Docker
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Java, Golang, JavaScript, Python, C++
+- **Frameworks**: Spring Boot, Node.js, React, Next.js, Vue.js
+- **Databases**: MySQL, MongoDB, Redis
+- **Cloud/DevOps**: AWS, Docker, Git, Prometheus, Grafana
+- **ML/AI**: TensorFlow, FastAPI
+
+---
+
+### 🌐 Let’s Connect
+I'm open to collaboration, learning, and building impactful solutions. Feel free to reach out!
+
+[LinkedIn](https://www.linkedin.com/in/dineshbali) | [Email](mailto:dineshbali45@gmail.com)
